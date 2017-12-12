@@ -13,7 +13,7 @@
 * Distribute the URL for people to access the site
 
 ## Known Bugs
-*There are no known bugs, feel free to get back to us at knownbugs@ip2.exercise.com if you stumble upon an unreported bug.
+*There are no known bugs, feel free to get back to us at knownbugs@ip3.exercise.com if you stumble upon an unreported bug.
 ## Technologies Used
 ###The apps used to come up with the game include
 *Atom editor
@@ -24,7 +24,7 @@
 *CSS
 *Jquery
 ## Support and contact details
-*Contact us at support@ip2.exercise.com, sales@ip2.exercise.com
+*Contact us at support@ip3.exercise.com, sales@ip2.exercise.com
 ### License
 *This site falls under the open liscence*
 *Copyleft (c) 2017 **eoabong**
