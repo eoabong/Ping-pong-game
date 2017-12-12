@@ -5,15 +5,13 @@
   border-color: #C0C0C0;
 }
 #header {
-  height: 300px;
-  background-color: #E6F0C2;
+  /*background-color: #E6F0C2;*/
   font-size: 4em;
   text-align: center;
   padding-top: 100px;
   background-image: url(../images/minions-ping-pong.jpg);
   height: 530px;
-  /*margin-left: 0px;*/
-  /*margin-right: 0px;*/
+  padding-left: 40%;
 }
 
 .row {
@@ -32,7 +30,7 @@
   color: #E8F587;
 }
 .txt3 {
-  color: #fff;
+  color: #blue;
 }
 
 .formaln {
@@ -41,4 +39,12 @@
 			}
 #row2{
     opacity: 0.8;
+}
+#hear{
+border-radius: 25px;
+background-image: url(../images/table.jpg);
+}
+.img {
+  width: 100%;
+  height: 100%;
 }
