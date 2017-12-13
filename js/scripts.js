@@ -15,13 +15,11 @@ for(var number = 1; number <=inputNumber; number++){
 }
 
 
-
-
 //front-end
-$document.ready(function(){
+$(document).ready(function(){
   $("form#main-form").submit(function(event){
     event.preventDefault();
-    var inputNumber = parseInt("input#user-input").val();
+    var inputNumber = parseInt($("input#user-input").val());
     pingPong(inputNumber);
 // append on HTML form
     pingpongArray.forEach(function(number){
