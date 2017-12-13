@@ -22,7 +22,7 @@ $(document).ready(function(){
     var inputNumber = parseInt($("input#user-input").val());
     pingPong(inputNumber);
 // append on HTML form
-    pingpongArray.forEach(function(number){
+    pingpongArray.forEach(function(inputNumber){
       $("#apend-result").append("<li>"+inputNumber+"</li>");
     });
   });
